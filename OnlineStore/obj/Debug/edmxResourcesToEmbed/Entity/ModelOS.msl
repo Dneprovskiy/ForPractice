@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ModelOnlineStoreContainer" CdmEntityContainer="EntitiesOnlineStore">
+    <EntitySetMapping Name="JobTitles">
+      <EntityTypeMapping TypeName="ModelOnlineStore.JobTitle">
+        <MappingFragment StoreEntitySet="JobTitles">
+          <ScalarProperty Name="JobTitle_id" ColumnName="JobTitle_id" />
+          <ScalarProperty Name="JobTitle1" ColumnName="JobTitle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registrations">
+      <EntityTypeMapping TypeName="ModelOnlineStore.Registration">
+        <MappingFragment StoreEntitySet="Registration">
+          <ScalarProperty Name="Registartion_id" ColumnName="Registartion_id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="SurName" ColumnName="SurName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Logins" ColumnName="Logins" />
+          <ScalarProperty Name="Passwords" ColumnName="Passwords" />
+          <ScalarProperty Name="JobTitle_id" ColumnName="JobTitle_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

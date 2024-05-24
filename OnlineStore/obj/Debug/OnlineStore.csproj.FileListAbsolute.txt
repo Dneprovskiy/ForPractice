@@ -1,0 +1,221 @@
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe.config
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.pdb
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\App.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.baml
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.g.resources
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.exe
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.pdb
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe.config
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.pdb
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\App.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.g.resources
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.exe
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.pdb
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.baml
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.dll
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.xml
+H:\!!!Курсовой проект\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.baml
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.SuggestedBindingRedirects.cache
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.baml
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.g.cs
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.baml
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.baml
+H:\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.dll
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.xml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.exe
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.dll
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\EntityFramework.xml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\App.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\AdministratorWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\Autorization.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\CaptchaWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\CustomerWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\MainWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\RegistrationWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\SalesmanWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\WorkerWindow.baml
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.g.resources
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.exe
+D:\3 - курс\!!!Курсовой проект\OnlineStore\obj\Debug\OnlineStore.pdb
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\WindowRegistrationUsers.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\WindowRegistrationUsers.baml
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\PageEntityUsers.g.cs
+E:\3-й курс\!!!Курсовой проект\OnlineStore\obj\Debug\PageEntityUsers.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe.config
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.pdb
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.dll
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.xml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\App.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.baml
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.g.resources
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineSt.916B8FA7.Up2Date
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.exe
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.pdb
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.g.cs
+H:\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe.config
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.pdb
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.dll
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.xml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\App.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.baml
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.g.resources
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineSt.916B8FA7.Up2Date
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.exe
+\\dcm2\STUDENTS\IS1-25\DneprovskiyVS\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.pdb
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe.config
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.exe
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\OnlineStore.pdb
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.dll
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\EntityFramework.xml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\App.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\AdministratorWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\Autorization.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CaptchaWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\CustomerWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\MainWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\PageEntity\PageEntityUsers.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\RegistrationWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\SalesmanWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WindowRegistrationUsers.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\WorkerWindow.baml
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.g.resources
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.csproj.CopyComplete
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.exe
+E:\3-й курс\!!!Курсовой проект - 3й курс\OnlineStore\obj\Debug\OnlineStore.pdb

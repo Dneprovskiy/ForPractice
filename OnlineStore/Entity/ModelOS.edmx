@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище ModelOnlineStore" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="JobTitles">
+          <Key>
+            <PropertyRef Name="JobTitle_id" />
+          </Key>
+          <Property Name="JobTitle_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="JobTitle" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="Registration">
+          <Key>
+            <PropertyRef Name="Registartion_id" />
+          </Key>
+          <Property Name="Registartion_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FirstName" Type="varchar" MaxLength="30" />
+          <Property Name="SurName" Type="varchar" MaxLength="30" />
+          <Property Name="LastName" Type="varchar" MaxLength="30" />
+          <Property Name="Logins" Type="varchar" MaxLength="20" />
+          <Property Name="Passwords" Type="varchar" MaxLength="16" />
+          <Property Name="JobTitle_id" Type="int" />
+        </EntityType>
+        <Association Name="FK__Registrat__JobTi__3D5E1FD2">
+          <End Role="JobTitles" Type="Self.JobTitles" Multiplicity="0..1" />
+          <End Role="Registration" Type="Self.Registration" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="JobTitles">
+              <PropertyRef Name="JobTitle_id" />
+            </Principal>
+            <Dependent Role="Registration">
+              <PropertyRef Name="JobTitle_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище ModelOnlineStoreContainer">
+          <EntitySet Name="JobTitles" EntityType="Self.JobTitles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Registration" EntityType="Self.Registration" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Registrat__JobTi__3D5E1FD2" Association="Self.FK__Registrat__JobTi__3D5E1FD2">
+            <End Role="JobTitles" EntitySet="JobTitles" />
+            <End Role="Registration" EntitySet="Registration" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ModelOnlineStore" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="JobTitle">
+          <Key>
+            <PropertyRef Name="JobTitle_id" />
+          </Key>
+          <Property Name="JobTitle_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="JobTitle1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Registrations" Relationship="Self.FK__Registrat__JobTi__3D5E1FD2" FromRole="JobTitles" ToRole="Registration" />
+        </EntityType>
+        <EntityType Name="Registration">
+          <Key>
+            <PropertyRef Name="Registartion_id" />
+          </Key>
+          <Property Name="Registartion_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FirstName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="SurName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="LastName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Logins" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Passwords" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+          <Property Name="JobTitle_id" Type="Int32" />
+          <NavigationProperty Name="JobTitle" Relationship="Self.FK__Registrat__JobTi__3D5E1FD2" FromRole="Registration" ToRole="JobTitles" />
+        </EntityType>
+        <Association Name="FK__Registrat__JobTi__3D5E1FD2">
+          <End Role="JobTitles" Type="Self.JobTitle" Multiplicity="0..1" />
+          <End Role="Registration" Type="Self.Registration" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="JobTitles">
+              <PropertyRef Name="JobTitle_id" />
+            </Principal>
+            <Dependent Role="Registration">
+              <PropertyRef Name="JobTitle_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EntitiesOnlineStore" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="JobTitles" EntityType="Self.JobTitle" />
+          <EntitySet Name="Registrations" EntityType="Self.Registration" />
+          <AssociationSet Name="FK__Registrat__JobTi__3D5E1FD2" Association="Self.FK__Registrat__JobTi__3D5E1FD2">
+            <End Role="JobTitles" EntitySet="JobTitles" />
+            <End Role="Registration" EntitySet="Registrations" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище ModelOnlineStoreContainer" CdmEntityContainer="EntitiesOnlineStore">
+          <EntitySetMapping Name="JobTitles">
+            <EntityTypeMapping TypeName="ModelOnlineStore.JobTitle">
+              <MappingFragment StoreEntitySet="JobTitles">
+                <ScalarProperty Name="JobTitle_id" ColumnName="JobTitle_id" />
+                <ScalarProperty Name="JobTitle1" ColumnName="JobTitle" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Registrations">
+            <EntityTypeMapping TypeName="ModelOnlineStore.Registration">
+              <MappingFragment StoreEntitySet="Registration">
+                <ScalarProperty Name="Registartion_id" ColumnName="Registartion_id" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="SurName" ColumnName="SurName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Logins" ColumnName="Logins" />
+                <ScalarProperty Name="Passwords" ColumnName="Passwords" />
+                <ScalarProperty Name="JobTitle_id" ColumnName="JobTitle_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

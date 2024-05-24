@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="JobTitle">
+    <Key>
+      <PropertyRef Name="JobTitle_id" />
+    </Key>
+    <Property Name="JobTitle_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobTitle1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Registrations" Relationship="Self.FK__Registrat__JobTi__267ABA7A" FromRole="JobTitles" ToRole="Registration" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="Registartion_id" />
+    </Key>
+    <Property Name="Registartion_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="SurName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Logins" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Passwords" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+    <Property Name="BlockedUtil" Type="DateTime" Precision="3" />
+    <Property Name="JobTitle_id" Type="Int32" />
+    <NavigationProperty Name="JobTitle" Relationship="Self.FK__Registrat__JobTi__267ABA7A" FromRole="Registration" ToRole="JobTitles" />
+  </EntityType>
+  <Association Name="FK__Registrat__JobTi__267ABA7A">
+    <End Role="JobTitles" Type="Self.JobTitle" Multiplicity="0..1" />
+    <End Role="Registration" Type="Self.Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="JobTitles">
+        <PropertyRef Name="JobTitle_id" />
+      </Principal>
+      <Dependent Role="Registration">
+        <PropertyRef Name="JobTitle_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EntitiesOnlineStore" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="JobTitles" EntityType="Self.JobTitle" />
+    <EntitySet Name="Registrations" EntityType="Self.Registration" />
+    <AssociationSet Name="FK__Registrat__JobTi__267ABA7A" Association="Self.FK__Registrat__JobTi__267ABA7A">
+      <End Role="JobTitles" EntitySet="JobTitles" />
+      <End Role="Registration" EntitySet="Registrations" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

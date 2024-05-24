@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\workerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:workerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\windowregistrationusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:windowregistrationusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\administratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:administratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\autorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:autorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|h:\\!!!\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\onlinestore\\autorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30F1E65C-D98B-4564-BAB0-A616077BD9A4}|OnlineStore.csproj|solutionrelative:autorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerWindow.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\WorkerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorkerWindow.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\WorkerWindow.xaml.cs",
+              "RelativeToolTip": "WorkerWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:47:44.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowRegistrationUsers.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\WindowRegistrationUsers.xaml.cs",
+              "RelativeDocumentMoniker": "WindowRegistrationUsers.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\WindowRegistrationUsers.xaml.cs",
+              "RelativeToolTip": "WindowRegistrationUsers.xaml.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwHsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:46:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationWindow.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "RegistrationWindow.xaml.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAKcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:43:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaptchaWindow.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\CaptchaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CaptchaWindow.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\CaptchaWindow.xaml.cs",
+              "RelativeToolTip": "CaptchaWindow.xaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:40:42.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministratorWindow.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\AdministratorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdministratorWindow.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\AdministratorWindow.xaml.cs",
+              "RelativeToolTip": "AdministratorWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:39:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autorization.xaml.cs",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\Autorization.xaml.cs",
+              "RelativeDocumentMoniker": "Autorization.xaml.cs",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\Autorization.xaml.cs",
+              "RelativeToolTip": "Autorization.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwHkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:21:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autorization.xaml",
+              "DocumentMoniker": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\Autorization.xaml",
+              "RelativeDocumentMoniker": "Autorization.xaml",
+              "ToolTip": "H:\\!!!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 - 3\u0439 \u043A\u0443\u0440\u0441\\OnlineStore\\Autorization.xaml",
+              "RelativeToolTip": "Autorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T10:21:28.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
